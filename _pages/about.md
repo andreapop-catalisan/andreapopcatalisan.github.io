@@ -1,3 +1,4 @@
+---
 layout: about
 title: about
 permalink: /
@@ -25,7 +26,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-
 
 
 I am a Ph.D. student in Economics at the [Paris School of Economics (PSE)](https://www.parisschoolofeconomics.eu/personnes/andrea-pop-catalisan/). I completed my master’s and bachelor's degrees at University Carlos III of Madrid. Previously, I worked as a Research Analyst at the European Central Bank at DG Economics and DG Research. I also completed a pre-doc at the Barcelona School of Economics/UPF and worked as a Research Assistant at the Kiel Institute for the World Economy and the Bank of Spain.
