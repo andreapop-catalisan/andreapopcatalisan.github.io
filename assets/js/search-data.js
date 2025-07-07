@@ -31,8 +31,8 @@ ninja.data = [{
             window.location.href = "/projects/";
           },
         },{id: "nav-teaching",
-          title: "Teaching",
-          description: "Graduate Level - SciencesPop",
+          title: "TEACHING",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/Teaching/";
