@@ -1,6 +1,6 @@
 ---
 layout: book-shelf
-title: ## RESEARCH
+title: RESEARCH
 permalink: /Research/
 nav: true
 nav_order: 1
