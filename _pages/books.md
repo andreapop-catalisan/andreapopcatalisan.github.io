@@ -6,7 +6,7 @@ nav: true
 nav_order: 1
 ---
 
-### Research in Progress
+#### *Research in Progress*
 
 > *The Effects of the Empty Nest on Parental Labour Supply and Well-being*
 > 
@@ -14,9 +14,10 @@ nav_order: 1
 
 ---
 
-### Other Research Contributions
+#### *Other Research Contributions*
 
 > During my stay at the European Central Bank (ECB), I provided research assistance to **Luc Laeven** and **Matthew Baron**.
 >
 > *“Banking Crises Without Panics”*  
-Available on SSRN: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3762043](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3762043)
+Available on SSRN [Here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3762043)
+
