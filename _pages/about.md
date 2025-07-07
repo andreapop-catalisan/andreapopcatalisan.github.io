@@ -9,7 +9,7 @@ profile:
   image: apcprofile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>48 jouran </p>
+    <p>48 jourdan </p>
     <p>paris</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
