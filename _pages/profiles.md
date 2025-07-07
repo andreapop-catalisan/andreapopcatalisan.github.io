@@ -5,5 +5,5 @@ title: CV
 description: 
 nav: true
 nav_order: 3
-permalink: /assets/CV_APC.pd
+permalink: /assets/CV_APC.pdf
 ---
