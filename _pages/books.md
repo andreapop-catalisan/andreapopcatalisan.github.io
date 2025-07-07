@@ -4,7 +4,6 @@ title: RESEARCH
 permalink: /Research/
 nav: true
 nav_order: 1
-collection: books
 ---
 
 ### Research in Progress
