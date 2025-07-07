@@ -7,7 +7,6 @@ nav: true
 nav_order: 2
 ---
 
-## Graduate Level - SciencesPo
-
-
-2025-2026: Applied Econometrics
+># Graduate Level - SciencesPo
+>
+>2025-2026: Applied Econometrics
