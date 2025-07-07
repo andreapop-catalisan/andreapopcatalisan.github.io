@@ -1,10 +1,13 @@
 ---
 layout: page
 permalink: /Teaching/
-title: Teaching
-description: Graduate Level - SciencesPop
+title: TEACHING
+description: 
 nav: true
 nav_order: 4
 ---
+
+## Graduate Level - SciencesPop
+
 
 2025-2026: Applied Econometrics
