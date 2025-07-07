@@ -4,7 +4,7 @@ permalink: /Teaching/
 title: TEACHING
 description: 
 nav: true
-nav_order: 4
+nav_order: 2
 ---
 
 ## Graduate Level - SciencesPo
