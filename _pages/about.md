@@ -6,12 +6,15 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: c28d635b-1f32-405b-8dbc-546a5d306c59 2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>48 Bd Jourdan </p>
+    <p>75014 Paris, France </p>
+
+#ponemos hastag si no queremos que aparezca esa info
+# <p>48 Bd Jourdan </p>
+
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
