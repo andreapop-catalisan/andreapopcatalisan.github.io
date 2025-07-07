@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/Research/";
           },
+        },{id: "nav-cv",
+          title: "CV",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/assets/CV_APC.pdf";
+          },
         },{id: "nav-projects",
           title: "projects",
           description: "A growing collection of your cool projects.",
@@ -29,13 +36,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/Teaching/";
-          },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/CV/";
           },
         },{id: "post-a-post-with-plotly-js",
         
