@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://andreapcatalisan.github.io/sitemap.xml
+Sitemap: https://andreacatalisan.github.io/sitemap.xml
