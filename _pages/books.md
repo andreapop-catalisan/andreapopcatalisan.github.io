@@ -8,9 +8,7 @@ nav_order: 1
 
 #### *Research in Progress*
 
-<div class="small-text">
-*The Effects of the Empty Nest on Parental Labour Supply and Well-being*
-</div>
+>*The Effects of the Empty Nest on Parental Labour Supply and Well-being*
 > 
 > Exploring how children's departure from the household affects parents' work patterns and psychological outcomes.
 
