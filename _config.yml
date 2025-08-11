@@ -1,7 +1,11 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-
+locale                   : "en-US"
+name                     : &name "Andrea Pop-Catalisan"
+author:
+  name             : "Andrea Pop-Catalisan"
+  
 title:  Andrea Pop-Catalisan 
 first_name:  Andrea Pop-Catalisan
 middle_name: 
