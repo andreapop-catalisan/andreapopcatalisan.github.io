@@ -147,4 +147,9 @@
       </div>
     </progress>
   {% endif %}
+
+<title>{{ page.title | default: site.title }}</title>
+<meta name="author" content="{{ site.author.name }}">
+<meta name="description" content="{{ page.description | default: site.description }}">
+
 </header>
