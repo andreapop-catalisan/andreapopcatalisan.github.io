@@ -4,133 +4,105 @@
 
 // Typography
 
-p,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-em,
-div,
-li,
-span,
-strong {
+html {
+  font-size: 15px; /* Default is usually 16px */
+}
+
+// Typography
+@font-face {
+  font-family: 'Lato';
+  src: url('/assets/fonts/Lato-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Lato';
+  src: url('/assets/fonts/Lato-Bold.ttf') format('truetype');
+  font-weight: bold;
+}
+@font-face {
+  font-family: 'Lato';
+  src: url('/assets/fonts/Lato-Light.ttf') format('truetype');
+  font-weight: 300;
+}
+@font-face {
+  font-family: 'Quattrocento';
+  src: url('/assets/fonts/Quattrocento-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Quattrocento';
+  src: url('/assets/fonts/Quattrocento-Bold.ttf') format('truetype');
+  font-weight: bold;
+}
+
+
+h1, h2, h3, h5, h6, strong, b {
+  color: var(--global-theme-color);
+  font-family:'Lato', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+}
+
+h4 {
+  color: var(--global-theme-color);
+  font-family:'Quattrocento', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+}
+
+
+em, div, li, span {
   color: var(--global-text-color);
+  font-family:'Lato', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: normal;
+}
+
+p {
+  font-family: 'Lato', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: normal;
 }
 
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
-
+ 
 table {
-  td,
-  th {
-    font-size: 1rem;
-    padding: 1px 1rem 1px 0;
+  td, th {
+    color: var(--global-text-color);
   }
-
-  th {
-    font-weight: bold;
+  td {
+    font-size: 1rem;
   }
 }
 
-a,
-table.table a {
-  color: var(--global-theme-color);
-
+a, table.table a {
+  color: $pink-color;
+  color: $pink-color;
+  font-weight: normal;
   &:hover {
-    color: var(--global-theme-color);
-    text-decoration: underline;
+    color: $pink-color;
+    color: $pink-color;
   }
-
   &:hover:after :not(.nav-item.dropdown) {
     width: 100%;
   }
 }
 
-.table-dark {
-  background-color: transparent;
-  &.table-bordered {
-    border: 1px solid var(--global-divider-color) !important;
-  }
+figure, img {
+  max-width: 70vw;
+  width: 80%;
 }
 
 blockquote {
   background: var(--global-bg-color);
-  border-left: 5px solid var(--global-theme-color);
-  margin: 1.5em 0;
-  padding: 1em;
+  border-left: 2px solid var(--global-theme-color);
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
   font-size: 1.2rem;
-
-  p {
-    margin-bottom: 0;
-  }
-
-  /* Tips, warnings, and dangers blockquotes */
-  &.block-tip {
-    border-color: var(--global-tip-block);
-    background-color: var(--global-tip-block-bg);
-
-    em,
-    li,
-    p,
-    strong {
-      color: var(--global-tip-block-text);
-    }
-
-    h1,
-    h2,
-    h3,
-    h4,
-    h5,
-    h6 {
-      color: var(--global-tip-block-title);
-    }
-  }
-
-  &.block-warning {
-    border-color: var(--global-warning-block);
-    background-color: var(--global-warning-block-bg);
-
-    em,
-    li,
-    p,
-    strong {
-      color: var(--global-warning-block-text);
-    }
-
-    h1,
-    h2,
-    h3,
-    h4,
-    h5,
-    h6 {
-      color: var(--global-warning-block-title);
-    }
-  }
-
-  &.block-danger {
-    border-color: var(--global-danger-block);
-    background-color: var(--global-danger-block-bg);
-
-    em,
-    li,
-    p,
-    strong {
-      color: var(--global-danger-block-text);
-    }
-
-    h1,
-    h2,
-    h3,
-    h4,
-    h5,
-    h6 {
-      color: var(--global-danger-block-title);
-    }
-  }
 }
+
+
+
 
 // Checklist
 
