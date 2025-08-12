@@ -8,7 +8,7 @@ nav: true
 nav_order: 2
 ---
 <div style="text-align: center;">
-  <h2 style="display: inline-block; margin-bottom: 0; border-bottom: 7px solid var(--global-theme-color); padding-bottom: 4px;">
+  <h2 style="display: inline-block; margin-bottom: 0; border-bottom: 7px solid var(--global-theme-color); padding-bottom: 2px;">
     Teaching Experience
   </h2>
 </div>
