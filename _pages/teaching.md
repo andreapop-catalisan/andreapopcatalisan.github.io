@@ -7,9 +7,10 @@ description:
 nav: true
 nav_order: 2
 ---
-<div style="text-align: center; margin-bottom: 0.5em;">
-  <h2>Teaching Experience</h2>
-  <hr style="width: 50px; border: 2px solid var(--global-theme-color); margin: 0 auto;">
+<div style="text-align: center;">
+  <h2 style="display: inline-block; margin-bottom: 0; border-bottom: 2px solid var(--global-theme-color); padding-bottom: 4px;">
+    Teaching Experience
+  </h2>
 </div>
 
 
