@@ -110,25 +110,32 @@ Work in Progress
   </p>
 
   <p class="presentation-info">
-  Presented at: European Health Economics Association (Brussels); European Doctoral Program (Bonn), PSE Behavioral Atelier (Paris).
+  Presented at: European Health Economics Association (Brussels); European Doctoral Program (Bonn), PSE Behavioural Atelier (Paris).
   </p> 
 </div>
 </div>
 
 <br>
 
-#### *Research in Progress*
 
->*The Effects of the Empty Nest on Parental Labour Supply and Well-being*
-> 
-> Exploring how children's departure from the household affects parents' work patterns and psychological outcomes.
-
----
+<!-------------------
+Others
+--------------------->
 
 <h4 style="margin-bottom: 20px;">Other Research Contributions</h4>
 
-> During my stay at the European Central Bank (ECB), I provided research assistance to **Luc Laeven** and **Matthew Baron**.
->
-> *“Banking Crises Without Panics”*  
-Available on SSRN [Here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3762043)
+<div class="container">
+<div class="jumbotron no-image">
+  <h6 class="paper-title"><a target="_blank" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3762043">Banking Crises Without Panics </a></h6>
+
+  <p class="abstract">
+    During my stay at the European Central Bank (ECB), I provided research assistance to **Luc Laeven** and **Matthew Baron**.
+  </p>
+
+
+
+<br>
+
+
+
 
