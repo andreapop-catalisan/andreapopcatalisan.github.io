@@ -74,7 +74,7 @@ nav_order: 1
   }
 
   .paper-title a {
-    color: pink; /* Match the default link color */
+    color: #990066 ; /* Match the default link color */
     text-decoration: none;
     font-weight: bold;
   }
