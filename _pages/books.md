@@ -129,7 +129,7 @@ Others
   <h6 class="paper-title"><a target="_blank" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3762043">Banking Crises Without Panics </a></h6>
 
   <p class="abstract">
-    During my stay at the European Central Bank (ECB), I provided research assistance to **Luc Laeven** and **Matthew Baron**.
+    During my stay at the European Central Bank (ECB), I provided research assistance to Luc Laeven and Matthew Baron.
   </p>
 
 
