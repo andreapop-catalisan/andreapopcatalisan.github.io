@@ -1,5 +1,5 @@
 ---
-layout: book-shelf
+layout: page
 title: RESEARCH
 permalink: /Research/
 nav: true
@@ -74,7 +74,7 @@ nav_order: 1
   }
 
   .paper-title a {
-    color: #4682b4; /* Match the default link color */
+    color: pink; /* Match the default link color */
     text-decoration: none;
     font-weight: bold;
   }
@@ -110,7 +110,7 @@ Work in Progress
   </p>
 
   <p class="presentation-info">
-  Presented at: Economics of Migration Junior Seminar 2024, 48th SAEe symposium, Mend the Gap in Economic Opportunities in Europe and Central Asia workshop (poster)
+  Presented at: European Health Economics Association (Brussels); European Doctoral Program (Bonn), PSE Behavioral Atelier (Paris).
   </p> 
 </div>
 </div>
