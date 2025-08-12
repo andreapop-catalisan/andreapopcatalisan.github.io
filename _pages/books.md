@@ -103,7 +103,7 @@ Work in Progress
 
 <div class="container">
 <div class="jumbotron no-image">
-  <h6 class="paper-title"><a target="_blank" href="">The Effects of the Empty Nest on Parental Labour Supply and Well-beingn</a></h6>
+  <h6 class="paper-title"><a target="_blank" href="">The Effects of the Empty Nest on Parental Labour Supply and Well-being </a></h6>
 
   <p class="abstract">
     Exploring how children's departure from the household affects parents' work patterns and psychological outcomes.
@@ -125,7 +125,7 @@ Work in Progress
 
 ---
 
-#### *Other Research Contributions*
+<h4 style="margin-bottom: 20px;">Other Research Contributions</h4>
 
 > During my stay at the European Central Bank (ECB), I provided research assistance to **Luc Laeven** and **Matthew Baron**.
 >
