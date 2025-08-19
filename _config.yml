@@ -1,9 +1,17 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
+
+<head>
+	<!-- Site info -->
+	<title> Andrea Pop-Catalisan </title>
+	<meta name="author" content="Andrea Pop-Catalisan" />
+
+
 title: Andrea Pop-Catalisan
 author:
   name: Andrea Pop-Catalisan
+  
 
 first_name:  Andrea Pop-Catalisan
 middle_name: 
