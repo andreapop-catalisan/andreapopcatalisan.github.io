@@ -6,4 +6,4 @@ Previously, I worked as a Research Analyst at the European Central Bank at DG Ec
 
 You can find my [CV](https://andreapopcatalisan.github.io/assets/CV_APC.pdf) here and learn more about my [research](https://andreapopcatalisan.github.io/Research/) here.
 
-You can email me at [andrea.pop@psemail.eu](mailto:andrea.pop@psemail.eu)! :)
+You can email me at [andrea.pop@psemail.eu](mailto:andrea.pop@psemail.eu)! 
