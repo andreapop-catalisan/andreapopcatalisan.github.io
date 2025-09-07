@@ -121,7 +121,7 @@ Work in Progress
 
 <div class="container">
 <div class="jumbotron no-image">
-  <h6 class="paper-title"><a target="_blank" href="#"> Surviving the school holidays </a></h6>
+  <h6 class="paper-title"><a target="_blank" href="#"> Surviving the School Holidays </a></h6>
 
   <p class="abstract">
     
@@ -135,21 +135,27 @@ Work in Progress
 
 <br>
 
-
 <h4 style="margin-bottom: 20px;">Other Research Contributions</h4>
+
 <div class="container">
-<div class="jumbotron no-image">
-  <h6 class="paper-title"><a target="_blank" href="">Inequality, Repression, and Redistributive Preferences in Catalonia </a></h6>
-  <span style="font-size = 15px;">(with <a target="_blank" href="[https://sites.google.com/view/belrodoro/about-me](https://sites.google.com/view/stefanofalcone)">Stefano Falcone</a>)</span>
+  <div class="jumbotron no-image">
+    <h6 class="paper-title">
+      <a target="_blank" href="#">
+        Inequality, Repression, and Redistributive Preferences in Catalonia
+      </a>
+    </h6>
+    <span style="font-size: 15px;">
+      (with <a target="_blank" href="https://sites.google.com/view/stefanofalcone">Stefano Falcone</a>)
+    </span>
 
-  <p class="abstract">
-    Using a regression discontinuity design (RDD) comparing municipalities close to but on the opposite side of the historical frontier, this paper shows that the existence of this frontier separating areas conquered relatively slowly (the North of Southern Catalonia) and those conquered faster (the South of Southern Catalonia) led to ground-breaking differences in preferences for socialism and redistribution, both historically and today. 
-  </p>
+    <p class="abstract">
+      Using a regression discontinuity design (RDD) comparing municipalities close to but on the opposite side of the historical frontier, this paper shows that the existence of this frontier separating areas conquered relatively slowly (the North of Southern Catalonia) and those conquered faster (the South of Southern Catalonia) led to ground-breaking differences in preferences for socialism and redistribution, both historically and today. 
+    </p>
 
-  <p class="presentation-info">
-  Presented at: BSE
-  </p> 
-</div>
+    <p class="presentation-info">
+      Presented at: BSE
+    </p>
+  </div>
 </div>
 
 
