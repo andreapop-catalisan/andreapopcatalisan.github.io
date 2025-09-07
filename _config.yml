@@ -2,27 +2,17 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-<head>
-	<!-- Site info -->
-	<title> Andrea Pop-Catalisan </title>
-	<meta name="author" content="Andrea Pop-Catalisan" />
-
-
-title: Andrea Pop-Catalisan
-author:
-  name: Andrea Pop-Catalisan
-  
-
-first_name:  Andrea Pop-Catalisan
+title: blank # the website title (if blank, full name will be used instead)
+first_name: Andrea Pop-Catalisan
 middle_name: 
-last_name:
+last_name: 
 email: andrea.pop@psemail.eu
-contact_note: >
-  
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-footer_text: > 
-keywords: 
+  Portfolio webpage of Andrea Pop-Catalisan.
+footer_text: >
+keywords: Andrea Pop-Catalisan, andreapopcatalisan # add your own keywords or leave empty
+
+  
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: apc2.png
 
@@ -162,6 +152,9 @@ collections:
 # Jekyll settings
 # -----------------------------------------------------------------------------
 
+
+
+  
 # Markdown and syntax highlight
 markdown: kramdown
 highlighter: rouge
@@ -270,8 +263,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
 
-  last_name: Pop-Catalisan
-  first_name: Andrea
+  last_name: [Pop-Catalisan]
+  first_name: [Andrea]
 
   style: apa
   locale: en
@@ -350,6 +343,8 @@ external_links:
 # -----------------------------------------------------------------------------
 # Responsive WebP Images
 # -----------------------------------------------------------------------------
+blog_description: Andrea Pop-Catalisan
+blog_name: Andrea Pop-Catalisan
 
 # MAKE SURE imagemagick is installed and on your PATH before enabling imagemagick. In a terminal, run:
 #   convert -version
