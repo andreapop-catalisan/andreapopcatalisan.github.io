@@ -4,7 +4,7 @@ title: RESEARCH
 show_title: false
 permalink: /research/
 nav: false
-nav_order: 1
+
 ---
 
 <style>
