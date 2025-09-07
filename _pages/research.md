@@ -135,12 +135,12 @@ Work in Progress
 
 <br>
 
-
-<!-------------------
+<!-- -------------------
 Others
---------------------->
+--------------------- -->
 
 <h4 style="margin-bottom: 20px;">Other Research Contributions</h4>
+
 
 
 
