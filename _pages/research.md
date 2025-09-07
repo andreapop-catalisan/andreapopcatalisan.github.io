@@ -161,6 +161,16 @@ Others
 </div>
 
 
+<div class="container">
+<div class="jumbotron no-image">
+  <h6 class="paper-title"><a target="_blank" href="">errre</a></h6>  
+  <span style="font-size = 15px;">(with <a target="_blank" href="">ANA</a>)</span>
+
+  <p class="abstract">
+    This rererer
+  </p>
+</div>
+</div>
 
 
 
