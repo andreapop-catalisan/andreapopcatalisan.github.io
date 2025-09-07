@@ -121,7 +121,7 @@ Work in Progress
 
 <div class="container">
 <div class="jumbotron no-image">
-  <h6 class="paper-title"><a target="_blank" href=""> Surviving the school holidays </a></h6>
+  <h6 class="paper-title"><a target="_blank" href="#"> Surviving the school holidays </a></h6>
 
   <p class="abstract">
     
