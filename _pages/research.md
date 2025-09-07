@@ -3,7 +3,7 @@ layout: page
 title: RESEARCH
 show_title: false
 permalink: /research/
-nav: true
+nav: flase
 nav_order: 1
 ---
 
