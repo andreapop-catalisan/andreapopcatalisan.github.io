@@ -153,7 +153,11 @@ collections:
 # -----------------------------------------------------------------------------
 
 
+# -----------------------------------------------------------------------------
+# Jekyll settings
+# -----------------------------------------------------------------------------
 
+# Markdown and syntax highlight
 markdown: kramdown
 highlighter: rouge
 kramdown:
@@ -259,10 +263,13 @@ display_categories: ["external-services"] # these categories will be displayed o
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
 
-scholar:
+# -----------------------------------------------------------------------------
+# Jekyll Scholar
+# -----------------------------------------------------------------------------
 
-  last_name: Pop-Catalisan
-  first_name: Andrea
+scholar:
+  last_name: [Pop-Catalisan]
+  first_name: [Andrea]
 
   style: apa
   locale: en
@@ -319,6 +326,7 @@ filtered_bibtex_keywords:
     video,
     website,
   ]
+
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
 max_author_limit: 3 # leave blank to always show all authors
