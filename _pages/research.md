@@ -119,21 +119,7 @@ Work in Progress
 <br>
 
 
-<div class="container">
-<div class="jumbotron no-image">
-  <h6 class="paper-title"><a target="_blank" href="#"> Surviving the School Holidays </a></h6>
 
-  <p class="abstract">
-    
-  </p>
-
-  <p class="presentation-info">
- 
-  </p> 
-</div>
-</div>
-
-<br>
 
 <h4 style="margin-bottom: 20px;">Other Research Contributions</h4>
 
@@ -145,7 +131,7 @@ Work in Progress
       </a>
     </h6>
     <span style="font-size: 15px;">
-      (with <a target="_blank" href="https://sites.google.com/view/stefanofalcone">Stefano Falcone</a>)
+      (with <a target="_blank" href="https://sites.google.com/view/stefanofalcone">Stefano Falcone</a>, Anna)
     </span>
 
     <p class="abstract">
