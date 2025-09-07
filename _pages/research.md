@@ -141,7 +141,21 @@ Others
 
 <h4 style="margin-bottom: 20px;">Other Research Contributions</h4>
 
+<div class="container">
+<div class="jumbotron no-image">
+  <h6 class="paper-title"><a target="_blank" href="">The Effects of the Empty Nest on Parental Labour Supply and Well-being </a></h6>
 
+  <p class="abstract">
+    Exploring how children's departure from the household affects parents' work patterns and psychological outcomes.
+  </p>
+
+  <p class="presentation-info">
+  Presented at: European Health Economics Association (Brussels); European Doctoral Program (Bonn), PSE Behavioural Atelier (Paris).
+  </p> 
+</div>
+</div>
+
+<br>
 
 
 <div class="container">
