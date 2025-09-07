@@ -147,7 +147,7 @@ Others
 <div class="container">
   <div class="jumbotron no-image">
     <h6 class="paper-title">
-      <a target="_blank" href="">
+      <a target="_blank" href="#">
         Inequality, Repression, and Redistributive Preferences in Catalonia
       </a>
     </h6> 
