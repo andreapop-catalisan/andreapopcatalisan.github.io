@@ -8,14 +8,14 @@ nav_order: 1
 ---
 
 <style>
-  /* Container replacement (no Bootstrap) */
+  /* Container */
   .research-container {
     margin: 0 auto;
     padding: 10px 20px;
     max-width: 900px;
   }
 
-  /* Jumbotron replacement */
+  /* Block */
   .research-block {
     padding: 12px 20px 8px 20px;
     display: flex;
@@ -54,6 +54,7 @@ nav_order: 1
     }
   }
 
+  /* Buttons */
   .btn-ssrn {
     display: inline-block;
     padding: 5px 5px;
@@ -69,6 +70,13 @@ nav_order: 1
   .btn-ssrn:hover {
     background-color: #CF8852;
     color: #1C1C1D;
+  }
+
+  /* Typography */
+  .section-title {
+    margin-bottom: 20px;
+    font-size: 1.3rem;
+    font-weight: bold;
   }
 
   .paper-title {
@@ -101,12 +109,12 @@ nav_order: 1
 <!-------------------
 Work in Progress 
 --------------------->
-<h4 style="margin-bottom: 20px;">Work in Progress</h4>
+<h2 class="section-title">Work in Progress</h2>
 
 <div class="research-container">
   <div class="research-block no-image">
-    <h6 class="paper-title">
-      <a target="_blank" href="">The Effects of the Empty Nest on Parental Labour Supply and Well-being</a>
+    <h4 class="paper-title">
+      <a target="_blank" href="#">Empty Nest Syndrome: Parents’Labor Supply and Well-Being</a>
     </h6>
 
     <p class="abstract">
@@ -122,15 +130,18 @@ Work in Progress
 
 <br>
 
-<h4 style="margin-bottom: 20px;">Other Research Contributions</h4>
+<!-------------------
+Other Research Contributions
+--------------------->
+<h2 class="section-title">Other Research Contributions</h2>
 
-<div class="container">
-  <div class="jumbotron no-image">
-    <h6 class="paper-title">
+<div class="research-container">
+  <div class="research-block no-image">
+    <h4 class="paper-title">
       <a target="_blank" href="#">
         Inequality, Repression, and Redistributive Preferences in Catalonia
       </a>
-    </h6>
+    </h4>
     <span style="font-size: 15px;">
       (with <a target="_blank" href="https://sites.google.com/view/stefanofalcone">Stefano Falcone</a>, Daniel Carrera)
     </span>
@@ -148,12 +159,19 @@ Work in Progress
 
 <div class="research-container">
   <div class="research-block no-image">
-    <h6 class="paper-title">
+    <h4 class="paper-title">
       <a target="_blank" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3762043">Banking Crises Without Panics</a>
-    </h6>
+    </h4>
 
     <p class="abstract">
       During my stay at the European Central Bank (ECB), I provided research assistance to Luc Laeven and Matthew Baron.
     </p>
   </div>
 </div>
+
+
+
+
+
+
+
