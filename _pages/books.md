@@ -132,7 +132,7 @@ Work in Progress
       </a>
     </h6>
     <span style="font-size: 15px;">
-      (with <a target="_blank" href="https://sites.google.com/view/stefanofalcone">Stefano Falcone</a>, Anna)
+      (with <a target="_blank" href="https://sites.google.com/view/stefanofalcone">Stefano Falcone</a>, Daniel Carrera)
     </span>
 
     <p class="abstract">
